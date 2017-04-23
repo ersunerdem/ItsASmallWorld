@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: 33ad3f345eae7f3448fcdc6956ba72c9
+timeCreated: 1492837189
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: knight_standing_down
+    21300002: knight_standing_left
+    21300004: knight_standing_up
+    21300006: knight_standing_right
+    21300008: shield_down
+    21300010: knight_walk_down_1
+    21300012: knight_walk_down_2
+    21300014: knight_walk_down_3
+    21300016: knight_walk_left_1
+    21300018: knight_walk_left_2
+    21300020: knight_walk_left_3
+    21300022: knight_walk_up_1
+    21300024: knight_walk_up_2
+    21300026: knight_walk_up_3
+    21300028: knight_walk_right_1
+    21300030: knight_walk_right_2
+    21300032: knight_walk_right_3
+    21300034: shield_left
+    21300036: shield_up
+    21300038: shield_right
+    21300040: sword_down_1
+    21300042: sword_down_2
+    21300044: sword_down_3
+    21300046: sword_left_1
+    21300048: sword_left_2
+    21300050: sword_left_3
+    21300052: sword_up_1
+    21300054: sword_up_2
+    21300056: sword_up_3
+    21300058: sword_right_1
+    21300060: sword_right_2
+    21300062: sword_right_3
+    21300064: knight_mentor_shield
+    21300066: knight_mentor
+    21300068: knight_mentor_gem
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_standing_down
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 673
+        width: 30
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5165311, y: 0.027683804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_standing_left
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 627
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5165311, y: 0.0040670256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_standing_up
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 578
+        width: 30
+        height: 42
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.02768235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_standing_right
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 533
+        width: 30
+        height: 41
+      alignment: 9
+      pivot: {x: 0.46693745, y: -0.008029845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shield_down
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 678
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_walk_down_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 445
+        width: 30
+        height: 43
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.007947345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_walk_down_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 444
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5347422, y: 0.029816352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_walk_down_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 444
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.43051437, y: 0.030580001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_walk_left_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 381
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.57849765, y: 0.04583377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_walk_left_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 381
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.58477765, y: -0.0046284995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_walk_left_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 381
+        width: 24
+        height: 41
+      alignment: 9
+      pivot: {x: 0.56113786, y: -0.004629226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_walk_up_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 321
+        width: 31
+        height: 43
+      alignment: 9
+      pivot: {x: 0.51709217, y: -0.017537672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_walk_up_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 320
+        width: 31
+        height: 45
+      alignment: 9
+      pivot: {x: 0.6096269, y: 0.0290134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_walk_up_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 320
+        width: 30
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4646764, y: 0.031751055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_walk_right_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 261
+        width: 23
+        height: 41
+      alignment: 9
+      pivot: {x: 0.3848133, y: 0.03475729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_walk_right_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 260
+        width: 23
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5460752, y: 0.021833466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_walk_right_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 259
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5000007, y: 0.033218384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shield_left
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 635
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shield_up
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 586
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shield_right
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 539
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_down_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 691
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.9641876, y: 0.95164186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_down_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 688
+        width: 8
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5000019, y: 1.0018238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_down_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 691
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.02326889, y: 0.98927915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_left_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 653
+        width: 21
+        height: 20
+      alignment: 9
+      pivot: {x: 0.906238, y: 0.098544315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_left_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 640
+        width: 26
+        height: 9
+      alignment: 9
+      pivot: {x: 1.0114744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_left_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 616
+        width: 21
+        height: 20
+      alignment: 9
+      pivot: {x: 0.91818637, y: 0.9140045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_up_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 586
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.9406971, y: 0.11257499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_up_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 585
+        width: 8
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4999981, y: 0.025402833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_up_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 586
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.05930214, y: 0.12871733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_right_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 556
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.09320183, y: 0.09643264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_right_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 543
+        width: 26
+        height: 9
+      alignment: 9
+      pivot: {x: 0.017579298, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_right_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 519
+        width: 21
+        height: 20
+      alignment: 9
+      pivot: {x: 0.0898125, y: 0.9134674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_mentor_shield
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 672
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_mentor
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 672
+        width: 30
+        height: 42
+      alignment: 9
+      pivot: {x: 0.499999, y: 0.024183001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knight_mentor_gem
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 683
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
